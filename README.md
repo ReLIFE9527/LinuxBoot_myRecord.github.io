@@ -1,2 +1,3 @@
 # LinuxBoot_myRecord.github.io
-Record my Implementation of LinuxBoot on QEMU-x86 and on QEMU-arm64
+
+Record my implementation of LinuxBoot on QEMU-x86 and on QEMU-arm64.
